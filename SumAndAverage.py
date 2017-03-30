@@ -16,5 +16,5 @@ for number in fileContents:
 	
 average = sum / totalNumbers
 
-print("The average of the numbers is " + str(average) + "."
+print("The average of the numbers is " + str(average) + ".")
 
